@@ -10,9 +10,9 @@ Apart from that, user can swap their tokens too for cases that are necessary lik
 
 For security reasons, Scanning of ID is made compulsory to eliminate fraud and ridging of the election activity.
 
-##team
+## Team
 
-##Tech-stack
+## Tech-stack
 <br/>
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
