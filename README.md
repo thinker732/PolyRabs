@@ -1,8 +1,14 @@
 # PolyRabs
 
-Polygon Dapp for swapping and vote 
+Polygon Dapp for vote and swapping
 
 ## Description
+
+PolyRabs is basically a voting platform build on the polygon Blockchain, with the DApp, you have the liberty to create Voting activity and also vote for others, as the saying goes; "Right to vote and be voted for", this DApp represents that notion.
+
+Apart from that, user can swap their tokens too for cases that are necessary like getting matic for network fee in order to complete the voting transaction.
+
+For security reasons, Scanning of ID is made compulsory to eliminate fraud and ridging of the election activity.
 
 ##team
 
